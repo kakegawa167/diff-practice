@@ -1,3 +1,3 @@
 # diff-practice
 Git動画講座diff練習用
-feature branchでの修正
+rebase-practiceファイルでの修正
